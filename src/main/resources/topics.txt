@@ -1,0 +1,27 @@
+compiling vs. running a Java program
+types in Java
+calculating the value range of an integer primitive type, given its size
+== vs. .equals() method
+conversion of Strings to number types
+String immutability
+basic String methods
+arrays (declaring, filling with values, accessing and changing values)
+iterating over arrays
+String[] args: command line arguments
+standard (“traditional”) for loops and for-each (“enhanced”) for loops
+control flow: break, continue, and return
+NumberFormatException, InputMismatchException, ArithmeticException, ArrayIndexOutOfBoundsException, NullPointerException
+static vs. instance methods
+the object-oriented thought process: introducing user-defined reference types to a procedural program
+the basics of writing a Java class
+constructors
+creating objects from a class and calling methods on them
+private vs. public visibility
+encapsulation
+aliasing
+inheritance: what and why
+inheritance: extends, super, method overriding
+Object as superclass
+upasting vs. downcasting
+dynamic dispatch
+abstract parent class
